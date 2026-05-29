@@ -9,8 +9,8 @@
     "build": "node $LERNA_ROOT_PATH/scripts/build.js"
   },
   "dependencies": {
-    "@actions/core": "^2.0.0",
-    "@actions/github": "^8.0.0",
+    "@actions/core": "^3.0.0",
+    "@actions/github": "^9.0.0",
     "semver": "^7.3.7"
   }
 }
